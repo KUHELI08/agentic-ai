@@ -1,10 +1,4 @@
-langgraph
-langchain
-langchain_community
-langchainhub
-ipykernel
-langchain_groq
-langchain_huggingface
-bs4
-tiktoken
-chromadb
+crewai
+crewai-tools
+python-dotenv
+streamlit
